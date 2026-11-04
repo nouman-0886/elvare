@@ -96,4 +96,4 @@ src/
 ## Author
 
 **Muhammad Nouman Ijaz** — front-end developer & creative designer, Bahawalpur, Pakistan.
-[LinkedIn](https://linkedin.com/in/nouman-webdev) · [Portfolio](https://nouman-0886.github.io/CodeAlpha-my-portfolio)
+[LinkedIn](https://linkedin.com/in/nouman-webdev)
