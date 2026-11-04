@@ -5,7 +5,7 @@
 **A luxury, animated e-commerce concept with an AI scent concierge.**
 Hand-built with React, GSAP and Lenis. Every perfume bottle is rendered in code.
 
-[**Live demo →**](https://elvare.vercel.app) &nbsp;·&nbsp; React 19 · Vite · Tailwind CSS 4 · GSAP · Motion · Groq
+[**Live demo →**](https://elvare-psi.vercel.app) &nbsp;·&nbsp; React 19 · Vite · Tailwind CSS 4 · GSAP · Motion · Groq
 
 ![ÉLVARÉ hero](docs/hero.jpg)
 
